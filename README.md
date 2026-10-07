@@ -39,8 +39,8 @@ Achievements
 Contact Information
 
 🔗 Live Portfolio:
-               
-    https://devaroopa.github.io/devaroopa-portfolio-website/
+            [🌐 View My Portfolio](https://devaroopa.github.io/devaroopa-portfolio-website/)
+            
 ---
 
 # 📚 Currently Learning
